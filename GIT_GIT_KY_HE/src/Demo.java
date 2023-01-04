@@ -10,7 +10,9 @@ public class Demo {
 	}
 	public static void main(String[] args)
 	{
-		
+		Demo d = new Demo();
+		d.m1();
+		d.m2();
 		System.out.println("hey git");
 	}
 }
