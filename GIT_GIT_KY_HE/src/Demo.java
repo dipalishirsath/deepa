@@ -4,6 +4,10 @@ public class Demo {
 	{
 		System.out.println("so finally");
 	}
+	public void m2()
+	{
+		System.out.println("hey eclipse,can i integrate with u");
+	}
 	public static void main(String[] args)
 	{
 		
